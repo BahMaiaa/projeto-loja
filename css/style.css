@@ -1,0 +1,184 @@
+@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@500&family=Bebas+Neue&family=Ms+Madi&family=Roboto:wght@100;300&family=Square+Peg&display=swap");
+.frete {
+  display: grid;
+  grid-template-columns: 350px 350px 350px;
+  gap: 20px;
+  justify-content: center;
+  background-color: black;
+}
+.ft1 {
+  color: white;
+  margin: 20px 0px 0px 150px;
+  font-family: "Bebas Neue", cursive;
+  font-size: 18px;
+}
+.ft2 img {
+  margin: 0 auto;
+}
+
+.ft2 {
+  color: white;
+  margin: 0 0 0 50px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.ft2 span {
+  font-size: 40px;
+  color: rgb(238, 43, 118);
+}
+
+.ft3 a {
+  color: white;
+  font-family: "Bebas Neue", cursive;
+  font-size: 20px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.ft3 {
+  padding: 20px;
+  margin: 10px 10px;
+  text-align: center;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: 500px 700px;
+  background-color: rgb(211, 196, 196);
+  padding: 10px;
+}
+.categorias {
+  display: grid;
+  margin: 20px 0;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.categorias a {
+  color: white;
+  padding: 5px px;
+  text-decoration: none;
+  border-radius: 4px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+.icones {
+  margin: 10px 5px 0 550px;
+}
+.icones img {
+  max-width: 30px;
+  padding: 5px;
+}
+.logo {
+  background-color: white;
+  padding: 20px;
+}
+.logo h1 {
+  margin: 30px 30px 30px 530px;
+  font-size: 50px;
+}
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  background-color: white;
+}
+.cattop {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.cattop img {
+  max-width: 180px;
+}
+.top h3 {
+  color: black;
+  font-size: 20px;
+}
+.catcalca {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.catcalca img {
+  max-width: 180px;
+}
+.calca h3 {
+  color: black;
+  font-size: 20px;
+}
+
+.catcasaco {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.catcasaco img {
+  max-width: 180px;
+}
+.casaco h3 {
+  color: black;
+  font-size: 20px;
+}
+.catvestido {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.catvestido img {
+  max-width: 180px;
+}
+.vestido h3 {
+  color: black;
+  font-size: 20px;
+}
+.ver {
+  font-family: "Bebas Neue", cursive;
+  font-size: 25px;
+  padding: 50px;
+  margin: 0px 0 0 500px;
+}
+
+.ver a {
+  background: black;
+  color: white;
+  padding: 8px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  text-align: center;
+}
+.make {
+  justify-content: center;
+}
+.make img {
+  max-width: 1000px;
+  margin: 10px 0px 30px 50px;
+}
+.barra {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: rgb(211, 196, 196);
+}
+.cts {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.cts a {
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-family: "Akshar", sans-serif;
+  margin: 10px 0 0 10px;
+}
+.rds {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 20px;
+  margin: 0 100px;
+}
+.rds img {
+  max-width: 35px;
+}
